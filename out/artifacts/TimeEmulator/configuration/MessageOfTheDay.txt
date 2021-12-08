@@ -1,0 +1,5 @@
+Welkom in het gloednieuwe en vooral verbeterde PixelTime!
+Na 2 maanden programmeren, zere vingers en heel veel koffie hebben we besloten een publieke versie van PixelTime online te zetten. In deze versie werkt nog niet alles, maar de gehele basis werkt. Huisdieren, robots kopen en de pixel helpers tool werken bijvoorbeeld nog niet.
+Heb je een bug gevonden? Meld die dan bij een van de team leden of op de website.
+Veel plezier in PixelTime!
+ - Bas & Mitchel

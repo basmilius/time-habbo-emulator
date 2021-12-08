@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: Libraries.jar
+Main-Class: com.basmilius.time.Launcher
+

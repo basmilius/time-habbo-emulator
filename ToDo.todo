@@ -1,0 +1,22 @@
+JAVADOC EVERY SINGLE CLASS.
+
+
+HabboSettings.
+ - Use IgnoreRoomInvites.
+ - Use PreferOldChat.
+
+
+E-mail verification:
+:test 561 email bool1 changeable furniId activated
+:test 561 bas@mili.us false false 1 false (nothing)
+:test 561 bas@mili.us false false 1 true (open your mailbox and click open present)
+:test 561 bas@mili.us false true 1 true (open your mailbox and click open present)
+:test 561 bas@mili.us true true 1 true (welcome present is openable)
+
+Guilds security:
+ - Don't handle packets if the user isn't a member of the guild.
+ - Don't send group data to the user if he or she isn't a member of the guild.
+ - Make guilds more stable.
+
+
+out 670 habboween12 10 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 1 100 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 2 99 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 3 98 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 4 97 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 5 96 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 6 95 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 7 94 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 8 93 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 9 92 1 Bas ca-3175-62.lg-3116-110-92.ch-3185-92.hr-3163-61.cc-3075-73.wa-2011-62.hd-195-4.sh-3275-92 10 91
